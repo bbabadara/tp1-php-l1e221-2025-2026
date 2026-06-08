@@ -14,5 +14,5 @@ echo "<br>";echo "<br>";
 // Réafficher le nombre de fruits.
 echo "Le nombre de fruit apres ajout est: ".count($fruits);
 
-var_dump($fruits);
+// var_dump($fruits);
 
