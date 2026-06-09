@@ -20,7 +20,6 @@ if ($blueExist) {
 }else {
     echo "La couleur blue n'est pas dans le tableau";
 }
-
 echo "<br>";echo "<br>";
 
 if ($noirExist) {

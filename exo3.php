@@ -16,6 +16,7 @@ foreach($notes as $note){
 $moyenne = $somme/count($notes);
 
 // Afficher la note la plus élevée.
+
 echo "La somme est : $somme ";
 echo "<br>";echo "<br>";
 echo "La moyenne est : $moyenne ";

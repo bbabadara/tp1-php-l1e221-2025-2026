@@ -10,7 +10,6 @@ echo $etudiant["age"];
 echo "<br>";echo "<br>";
 
 // Afficher toutes les informations avec une boucle.
-
 foreach ($etudiant as $key => $value) {
     echo "$key : $value"."<br>";
 }

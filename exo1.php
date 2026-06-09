@@ -23,6 +23,7 @@ for ($i=0; $i <count($jours) ; $i++) {
     echo $jours[$i].", ";
 }
 
+
 echo "<br>";echo "<br>";
 
 echo "Les jours de la semaine (avec foreach) sont: ";
